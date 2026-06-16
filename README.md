@@ -162,4 +162,15 @@ pytest tests/ -v          # 6 tests
 
 ---
 
+## Referências científicas (crédito aos autores)
+
+- Edge et al. (2024). From Local to Global: A Graph RAG Approach to Query-Focused Summarization. Microsoft Research, arXiv:2404.16130.
+- Lewis et al. (2020). Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks. NeurIPS.
+- Günther et al. (2024). Late Chunking. Jina AI, arXiv:2409.04701.
+- LGPD (Lei nº 13.709/2018), arts. 6º e 7º: ato oficial de domínio público (Planalto/gov.br).
+
+Este repositório é uma reimplementação didática e offline dessas ideias.
+
+---
+
 Part of my LinkedIn series on RAG efficiency → [Flávia Gaia](https://www.linkedin.com/in/flavia-gaia/)
